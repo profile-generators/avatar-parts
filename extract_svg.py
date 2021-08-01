@@ -74,9 +74,9 @@ def makeSvg(node, author):
 
 	# Svg root element
 	root = ET.Element('svg')
-	root.set('width', "210mm")
-	root.set('height', "297mm")
-	root.set('viewBox', "0 0 210 297")
+	root.set('width', "124.19042mm")
+	root.set('height', "131.31474mm")
+	root.set('viewBox', "0 0 124.19042 131.31474")
 	root.set('version', "1.1")
 	root.set('id', "svg151")
 
@@ -130,6 +130,11 @@ author = sys.argv[3]
 if not os.path.exists(dst):
 	os.makedirs(dst)
 
+for part in parts_list:
+	partfolder = f'{dst}/{part}'
+	if not os.path.exists(partfolder):
+		os.makedirs(partfolder)
+
 # parse svg input
 tree = ET.parse(src)
 root = tree.getroot()
@@ -151,7 +156,7 @@ for g in root.findall('svg:g', ns):
 	# wrap and export
 	svg = makeSvg(g, author)
 
-	filename = f'{dst}/{label}.svg'
+	filename = f'{dst}/{part}/{label}.svg'
 	svg.write(filename, encoding='utf-8', xml_declaration=True)
 
 	# prettify
