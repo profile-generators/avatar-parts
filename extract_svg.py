@@ -69,7 +69,7 @@ def	fixNode(node):
 		if attr in node.attrib:
 			del node.attrib[attr]
 
-def makeSvg(node, author):
+def makeSvg(node, author, keywords):
 	"wrap an svg node in a standalone svg"
 
 	# Svg root element
@@ -82,7 +82,7 @@ def makeSvg(node, author):
 
 	root.append(node)
 
-	# Add metadata (license and author)
+	# Add metadata (license, author and keywords)
 	metadata = ET.Element('metadata')
 	rdf = ET.SubElement(metadata, tag('rdf', 'RDF'))
 	work = ET.SubElement(rdf, tag('cc', 'Work'))
@@ -90,8 +90,15 @@ def makeSvg(node, author):
 	creatorAgent = ET.SubElement(creator, tag('cc', 'Agent'))
 	creatorTitle = ET.SubElement(creatorAgent, tag('dc', 'title'))
 	creatorTitle.text = author
+
 	source = ET.SubElement(work, tag('dc', 'source'))
 	source.text = 'https://github.com/profile-generators/avatar-parts'
+
+	subject = ET.SubElement(work, tag('dc', 'subject'))
+	bag = ET.SubElement(subject, tag('rdf', 'Bag'))
+	for keyword in keywords:
+		kw = ET.SubElement(bag, tag('rdf', 'li'))
+		kw.text = keyword
 
 	license = ET.SubElement(rdf, tag('cc', 'License'))
 	license.set(tag('rdf', 'about'), 'http://creativecommons.org/licenses/by/4.0/')
@@ -119,13 +126,22 @@ parts_list = [
     "hat"
 ]
 
-if len(sys.argv) < 3:
-	print(f'usage: {sys.argv[0]} src_svg dst_folder author')
+if len(sys.argv) < 4:
+	print(f'usage: {sys.argv[0]} src_svg dst_folder author tags')
+	print('src_svg		- an avatar with each part on a layer')
+	print('dst_folder	- the root folder to export to')
+	print('author		- will be stored as creator in metadata')
+	print('tags		- separated by comma, will be stored as keywords in metadata')
 	sys.exit(1)
 
 src = sys.argv[1]
 dst = sys.argv[2]
 author = sys.argv[3]
+keywords = list(map(str.strip, sys.argv[4].split(',')))
+
+print(f'extracting parts from {src} to {dst}')
+print(f'author: {author}')
+print(f'keywords: {keywords}')
 
 if not os.path.exists(dst):
 	os.makedirs(dst)
@@ -154,7 +170,7 @@ for g in root.findall('svg:g', ns):
 	fixNode(g)
 
 	# wrap and export
-	svg = makeSvg(g, author)
+	svg = makeSvg(g, author, keywords)
 
 	filename = f'{dst}/{part}/{label}.svg'
 	svg.write(filename, encoding='utf-8', xml_declaration=True)
