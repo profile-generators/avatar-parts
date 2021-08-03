@@ -75,8 +75,8 @@ def makeSvg(node, author, keywords):
 	# Svg root element
 	root = ET.Element('svg')
 	root.set('width', "124.19042mm")
-	root.set('height', "131.31474mm")
-	root.set('viewBox', "0 0 124.19042 131.31474")
+	root.set('height', "124.19042mm")
+	root.set('viewBox', "0 0 124.19042 124.19042")
 	root.set('version', "1.1")
 	root.set('id', "svg151")
 
