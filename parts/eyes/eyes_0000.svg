@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<svg height="131.31474mm" id="svg151" version="1.1" viewBox="0 0 124.19042 131.31474" width="124.19042mm" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
+	<svg:g id="layer17" inkscape:groupmode="layer" inkscape:label="eyes_0000" style="display:inline;opacity:1">
+		<svg:path d="m 58.051859,51.617816 c 0.177448,2.007941 -2.742955,4.361203 -6.771017,4.316319 -4.26599,-0.04753 -6.533343,-1.768594 -7.864329,-4.316319 -1.091658,-2.089614 2.234178,-4.643504 7.388976,-4.649066 3.044044,-0.0033 7.055193,2.485772 7.24637,4.649066 z" id="path4476" style="fill:#ffffff;stroke-width:1.00157"/>
+		<svg:circle class="eye_color" cx="50.949532" cy="51.23785" id="path5651" r="4.1355634" style="display:inline;opacity:1;fill-opacity:1;stroke:none;stroke-width:0.279453;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+		<svg:ellipse cx="50.949532" cy="51.23785" id="path6040" rx="2.0522294" ry="2.1312411" style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+		<svg:path class="flesh2_fill" d="m 58.051859,51.617816 c -0.44051,-1.65227 -3.170772,-3.719783 -7.198834,-3.764667 -4.26599,-0.04753 -7.103765,0.845843 -7.436512,3.764667 -1.091658,-2.089614 2.234178,-4.643504 7.388976,-4.649066 3.044044,-0.0033 7.055193,1.725209 7.24637,4.649066 z" id="path6580" style="stroke-width:1.00157"/>
+		<svg:path d="m 66.061501,51.783875 c -0.177448,2.007941 2.742955,4.361203 6.771017,4.316319 4.26599,-0.04753 6.533343,-1.768594 7.864329,-4.316319 1.091658,-2.089614 -2.234178,-4.643504 -7.388976,-4.649066 -3.044044,-0.0033 -7.055193,2.485772 -7.24637,4.649066 z" id="path7298" style="fill:#ffffff;stroke-width:1.00157"/>
+		<svg:circle class="eye_color" cx="-73.163826" cy="51.403908" id="circle7300" r="4.1355634" style="display:inline;opacity:1;fill-opacity:1;stroke:none;stroke-width:0.279453;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="scale(-1,1)"/>
+		<svg:ellipse cx="-73.163826" cy="51.403908" id="ellipse7302" rx="2.0522294" ry="2.1312411" style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="scale(-1,1)"/>
+		<svg:path class="flesh2_fill" d="m 66.061501,51.783875 c 0.44051,-1.65227 3.170772,-3.719783 7.198834,-3.764667 4.26599,-0.04753 7.103765,0.845843 7.436512,3.764667 1.091658,-2.089614 -2.234178,-4.643504 -7.388976,-4.649066 -3.044044,-0.0033 -7.055193,1.725209 -7.24637,4.649066 z" id="path7304" style="stroke-width:1.00157"/>
+		<svg:ellipse cx="49.12764" cy="50.089161" id="path7374" rx="0.78433096" ry="0.8318662" style="fill:#ffffff;fill-opacity:0.5;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+		<svg:ellipse cx="71.350349" cy="50.11293" id="path7464" rx="0.92693657" ry="0.90316904" style="fill:#ffffff;fill-opacity:0.5;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+	</svg:g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Xavier 'crashoz' Launey</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>template</rdf:li>
+						<rdf:li>man</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
