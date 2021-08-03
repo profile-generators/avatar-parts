@@ -146,10 +146,17 @@ print(f'keywords: {keywords}')
 if not os.path.exists(dst):
 	os.makedirs(dst)
 
+part_numbers = {}
 for part in parts_list:
 	partfolder = f'{dst}/{part}'
 	if not os.path.exists(partfolder):
 		os.makedirs(partfolder)
+
+	number = -1
+	for filename in os.listdir(partfolder):
+		n = int(filename.split('_')[1].split('.')[0])
+		number = max(number, n)
+	part_numbers[part] = number + 1
 
 # parse svg input
 tree = ET.parse(src)
@@ -164,7 +171,15 @@ for g in root.findall('svg:g', ns):
 	except:
 		continue
 
-	print('extracting', part, partid)
+	# select next number available for filename
+	if len(partid) != 4:
+		number = part_numbers[part]
+		part_numbers[part] += 1
+	else:
+		# if partid is exactly 4 digits, override previous file
+		number = int(partid)
+
+	print(f'extracting {part}_{partid} as {part}_{number:04d}.svg')
 
 	# prepare node
 	fixNode(g)
@@ -172,7 +187,7 @@ for g in root.findall('svg:g', ns):
 	# wrap and export
 	svg = makeSvg(g, author, keywords)
 
-	filename = f'{dst}/{part}/{label}.svg'
+	filename = f'{dst}/{part}/{part}_{number:04d}.svg'
 	svg.write(filename, encoding='utf-8', xml_declaration=True)
 
 	# prettify
