@@ -79,6 +79,7 @@ def makeSvg(node, author, keywords):
 	root.set('viewBox', "0 0 124.19042 124.19042")
 	root.set('version', "1.1")
 	root.set('id', "svg151")
+	root.set('xmlns', 'http://www.w3.org/2000/svg')
 
 	root.append(node)
 
