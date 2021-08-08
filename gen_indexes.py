@@ -81,7 +81,7 @@ for part in parts_list:
         tags = list(map(lambda tag: tag.text, tagsList))
         creator = work.find('./dc:creator/cc:Agent/dc:title', ns).text
 
-        html += f'            <li href="{filename}" data-tags="{" ".join(tags)}" data-creator="{creator}">{filename}</li>\n'
+        html += f'            <li><a href="{filename}" data-tags="{" ".join(tags)}" data-creator="{creator}">{filename}</a></li>\n'
 
     html += '        </ul>\n    </body>\n</html>'
 
