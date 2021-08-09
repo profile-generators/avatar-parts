@@ -23,6 +23,8 @@ When your layers are ready, run the python 3 script [extract_svg.py](extract_svg
 
 *tags* is a comma-separated list of keywords that will be added as metadata to your parts
 
+The script will extract your layers and assign a **4 digit** number to each of your parts, add author and tags metadata inline, and place your part in the correct folder. If you used **4 digit** in a layer name, the corresponding part will be updated instead of being assigned a new number.
+
 Before making a pull request, run the python 3 script [gen_indexes.py](gen_indexes.py).
 
 `gen_indexes.py`
