@@ -49,8 +49,8 @@ sodipodiAttrs = [
 	'version'
 ]
 
-def	fixNode(node):
-	"cleanup svg node"
+def	prepareNode(node, partName):
+	"prepare svg node (layer)"
 
 	# Make layer visible if it was hidden
 	style = node.attrib['style']
@@ -68,6 +68,10 @@ def	fixNode(node):
 			del elt.attrib[attr]
 		if attr in node.attrib:
 			del node.attrib[attr]
+
+	# Add a partName class to access it easily in the final svg
+	node.attrib['class'] = partName
+
 
 def makeSvg(node, author, keywords):
 	"wrap an svg node in a standalone svg"
@@ -154,6 +158,8 @@ for part in parts_list:
 
 	number = -1
 	for filename in os.listdir(partfolder):
+		if not filename.endswith('.svg'):
+			continue
 		n = int(filename.split('_')[1].split('.')[0])
 		number = max(number, n)
 	part_numbers[part] = number + 1
@@ -182,7 +188,7 @@ for g in root.findall('{http://www.w3.org/2000/svg}g'):
 	print(f'extracting {part}_{partid} as {part}_{number:04d}.svg')
 
 	# prepare node
-	fixNode(g)
+	prepareNode(g, part)
 
 	# wrap and export
 	svg = makeSvg(g, author, keywords)
