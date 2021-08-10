@@ -9,7 +9,7 @@ We made a [template.svg](template.svg) with inkscape. This template contains lay
 
 There are also layers named [part]_0000 that contains a default template part for each part.
 
-You should make your own parts in separate layers named [part]_[n] with *part* being the part name (bust, ears, eyes, ...) and *n* being a **3 digits** number (or lower) if you are making a new part. If you are modifying and existing part, you should use the **4 digits** number assigned to your part.
+You should make your own parts in separate layers named [part]_[n] with *part* being the part name (bust, ears, eyes, ...) and *n* being a **3 digits** number (or lower) if you are making a new part. If you are modifying an existing part, you should use the **4 digits** number assigned to your part.
 
 When your layers are ready, run the python 3 script [extract_svg.py](extract_svg.py).
 
