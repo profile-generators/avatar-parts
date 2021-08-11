@@ -92,9 +92,9 @@
 	.eye { fill: #d8d5ff }
 	
 	.p1 { fill: #006eb3 }
-	.p2 { fill: #ffffff }
-	.p3 { fill: #ffffff }
-	.p4 { fill: #ffffff }
+	.p2 { fill: #008de6 }
+	.p3 { fill: #00b39e }
+	.p4 { fill: #00e6cb }
 </style>
   <defs
      id="defs148" />
