@@ -34,6 +34,8 @@ p4         | ![#00e6cb](resources/p4.png "#00e6cb") | palette 4
 
 To use the palette with inkscape you have to open the **XML Editor** located in the *Edit* menu. You can then click on an object (or path) and set a "class" attribute with the class name (i.e. "flesh") you desire.
 
+![xmleditor](resources/palette_edit.png "XML Editor")
+
 Although you should use the palette as much as possible, you can use hardcoded colors as well. Using black or white objects with custom opacities can be usefull to add shadows or highlights over palette colors.
 
 
