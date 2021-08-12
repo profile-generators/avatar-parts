@@ -36,6 +36,10 @@ To use the palette with inkscape you have to open the **XML Editor** located in 
 
 ![xmleditor](resources/palette_edit.png "XML Editor")
 
+If the palette color does not show on the object, you may have to set the fill color to undefined in the **Fill and Stroke** menu. This will make your object inherit its color from the palette.
+
+![fillcolor](resources/fill.png "Undefined Fill")
+
 Although you should use the palette as much as possible, you can use hardcoded colors as well. Using black or white objects with custom opacities can be usefull to add shadows or highlights over palette colors.
 
 
