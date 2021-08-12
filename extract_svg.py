@@ -184,6 +184,9 @@ for g in root.findall('{http://www.w3.org/2000/svg}g'):
 	else:
 		# if partid is exactly 4 digits, override previous file
 		number = int(partid)
+		if number == 0:
+			# skip template 0000 parts
+			continue
 
 	print(f'extracting {part}_{partid} as {part}_{number:04d}.svg')
 
