@@ -1,22 +1,21 @@
 <?xml version="1.0" ?>
-<svg height="124.19042mm" id="svg151" version="1.1" viewBox="0 0 124.19042 124.19042" width="124.19042mm" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<g class="neck" id="layer21" inkscape:groupmode="layer" inkscape:label="neck_0000" style="display:inline;opacity:1">
-		<path class="flesh2_fill" d="m 77.067629,82.597576 c 0,4.305517 -6.755791,7.605687 -14.972208,7.605687 -8.216417,0 -14.877138,-3.490311 -14.877138,-7.795828 -0.07508,-2.054866 0.0044,-2.787847 0.03381,-4.165681 0.07569,-3.543456 8.480918,0.0317 14.843329,0.0317 6.048639,0 14.956666,-3.475916 14.807545,-0.205058 -0.0921,2.020063 0.127039,2.139085 0.164663,4.529175 z" id="path8646" style="stroke-width:0.274809"/>
-		<path class="flesh2_fill" d="m 77.067629,82.597576 c 0,4.305517 -6.755791,7.605687 -14.972208,7.605687 -8.216417,0 -14.877138,-3.490311 -14.877138,-7.795828 -0.07508,-2.054866 0.0044,-2.787847 0.03381,-4.165681 0.07569,-3.543456 8.480918,0.0317 14.843329,0.0317 6.048639,0 14.956666,-3.475916 14.807545,-0.205058 -0.0921,2.020063 0.127039,2.139085 0.164663,4.529175 z" id="path1575" style="stroke-width:0.274809"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="layer21" inkscape:label="neck_0000" style="display:inline;opacity:1" class="neck">
+		<path id="path8646" d="m 77.067629,82.597576 c 0,4.305517 -6.755791,7.605687 -14.972208,7.605687 -8.216417,0 -14.877138,-3.490311 -14.877138,-7.795828 -0.07508,-2.054866 0.0044,-2.787847 0.03381,-4.165681 0.07569,-3.543456 8.480918,0.0317 14.843329,0.0317 6.048639,0 14.956666,-3.475916 14.807545,-0.205058 -0.0921,2.020063 0.127039,2.139085 0.164663,4.529175 z" class="flesh2"/>
 	</g>
 	<metadata>
 		<rdf:RDF>
 			<cc:Work>
 				<dc:creator>
 					<cc:Agent>
-						<dc:title>Xavier 'crashoz' Launey</dc:title>
+						<dc:title>yurg</dc:title>
 					</cc:Agent>
 				</dc:creator>
 				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
 				<dc:subject>
 					<rdf:Bag>
-						<rdf:li>template</rdf:li>
-						<rdf:li>man</rdf:li>
+						<rdf:li>medium_long</rdf:li>
+						<rdf:li>hair</rdf:li>
 					</rdf:Bag>
 				</dc:subject>
 			</cc:Work>
