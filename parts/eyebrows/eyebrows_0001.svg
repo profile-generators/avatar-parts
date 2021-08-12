@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="g11665" inkscape:label="eyebrows_001" style="display:inline;opacity:1" class="eyebrows">
+		<path id="path11661" d="m 49.912205,42.969928 c -4.778158,-4.8e-5 -7.266413,0.597572 -7.938639,1.642619 6.25e-4,0.196048 0.209252,0.759966 0.327863,0.951951 1.057531,-0.556987 3.537165,-1.358319 7.563233,-1.35903 4.10461,5.7e-5 6.518089,0.411086 7.447689,1.151915 0.148541,-0.213351 0.442781,-0.767781 0.444305,-0.98685 -0.907515,-1.011361 -3.066495,-1.400557 -7.844451,-1.400605 z" class="hair2"/>
+		<path id="path11663" d="m 74.355121,43.104378 c 4.778158,-4.8e-5 7.266413,0.597572 7.938639,1.642619 -6.25e-4,0.196048 -0.209252,0.759966 -0.327863,0.951951 -1.057531,-0.556987 -3.537165,-1.358319 -7.563233,-1.35903 -4.10461,5.7e-5 -6.518089,0.411086 -7.447689,1.151915 -0.148541,-0.213351 -0.442781,-0.767781 -0.444305,-0.98685 0.907515,-1.011361 3.066495,-1.400557 7.844451,-1.400605 z" class="hair2"/>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>medium_long</rdf:li>
+						<rdf:li>dark</rdf:li>
+						<rdf:li>hair</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
