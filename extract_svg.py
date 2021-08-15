@@ -173,7 +173,7 @@ for g in root.findall('{http://www.w3.org/2000/svg}g'):
 	label = g.attrib['{' + ns['inkscape'] + '}label']
 	try:
 		part, partid = label.split('_')
-		if part not in parts_list or partid == 'box':
+		if part not in parts_list or partid == 'box' or int(partid) == 0:
 			continue
 	except:
 		continue
