@@ -17,9 +17,7 @@
 				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
 				<dc:subject>
 					<rdf:Bag>
-						<rdf:li>medium_long</rdf:li>
-						<rdf:li>dark</rdf:li>
-						<rdf:li>hair</rdf:li>
+						<rdf:li>woman</rdf:li>
 					</rdf:Bag>
 				</dc:subject>
 			</cc:Work>
