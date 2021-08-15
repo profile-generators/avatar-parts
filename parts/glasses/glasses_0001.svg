@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="layer30" inkscape:label="glasses_001" class="glasses">
+		<g id="g32177" transform="translate(0.33612471)">
+			<path id="path5532" style="fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 278.03516,170.19922 c -0.38825,-0.002 -0.76867,-0.002 -1.13868,0.002 -15.21747,0.14887 -33.25762,8.01807 -37.55468,25.18555 -0.19093,0.7628 -3.82979,-1.37317 -5.8125,-1.36524 -1.89442,0.008 -4.72441,2.2039 -4.98633,1.33399 -4.58542,-15.22874 -22.10108,-25.39223 -37.73047,-25.12305 -14.332,0.24684 -33.0198,2.99433 -40.84766,14.8711 -2.47618,-2.37007 -4.05941,-3.55359 -5.7832,-5.42579 0.0836,0.76054 0.12999,1.37305 0.3418,1.98438 1.55865,1.83425 4.36719,5.84766 4.36718,5.84766 10e-6,0 -0.84039,4.32592 -1.01757,6.09765 -1.38034,13.80363 26.4109,23.60634 42.68554,23.88281 14.20138,0.24125 37.88401,-3.02248 38.36524,-19.05468 0.0536,-1.7858 3.86862,-2.76242 4.57422,-2.79493 0.53555,-0.0248 5.12614,0.86228 5.08203,2.79493 -0.33862,14.84414 21.41793,19.22242 36.95703,19.11523 14.88757,-0.1027 43.01681,-8.07212 44.05664,-22.8164 0.15405,-2.18437 -0.98633,-6.66797 -0.98633,-6.66797 0,0 4.5386,-6.41379 4.92774,-7.02735 0.0486,-0.25327 0.0702,-0.8359 0.12109,-1.47851 -0.71708,0.74394 -4.85944,4.9374 -6.05859,5.92968 -7.07964,-12.38831 -27.52689,-15.23078 -39.5625,-15.29101 z m -1.125,1.56445 c 0.61107,-2.5e-4 1.22315,0.0136 1.83593,0.0449 22.14423,1.13098 39.22997,7.92284 39.16602,22.54883 -0.0479,10.96129 -24.25449,20.85215 -39.16602,21.19922 -14.67357,0.34153 -37.83317,-2.21756 -38.26757,-16.88867 -0.35583,-12.01714 17.48837,-26.89651 36.43164,-26.9043 z m -86.42969,0.0352 c 18.94326,0.008 36.78746,14.88911 36.43164,26.90625 -0.4344,14.67111 -23.59401,17.2302 -38.26758,16.88867 -14.91152,-0.34707 -39.11809,-10.23988 -39.16601,-21.20117 -0.064,-14.626 17.02179,-21.4159 39.16601,-22.54688 0.61279,-0.0313 1.22487,-0.0471 1.83594,-0.0469 z" transform="scale(0.26458333)" class="p3"/>
+			<path style="fill:#ffffff;fill-opacity:0.487903;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 39.501939,51.405998 c -0.01692,-3.869795 4.503683,-5.666434 10.362675,-5.965671 5.188257,-0.264981 10.222183,3.824415 10.125001,7.106514 -0.114936,3.881732 -6.24262,4.558675 -10.125003,4.468312 -3.945339,-0.09183 -10.349994,-2.708981 -10.362673,-5.609155 z" id="path17217-5"/>
+			<path style="fill:#ffffff;fill-opacity:0.487903;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 84.057504,51.540449 c 0.01692,-3.869795 -4.503683,-5.666434 -10.362675,-5.965671 -5.188257,-0.264981 -10.222183,3.824415 -10.125001,7.106514 0.114936,3.881732 6.242621,4.558675 10.125003,4.468311 3.94534,-0.09183 10.349994,-2.70898 10.362673,-5.609154 z" id="path17217-9-0"/>
+		</g>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>medium_long</rdf:li>
+						<rdf:li>dark</rdf:li>
+						<rdf:li>hair</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
