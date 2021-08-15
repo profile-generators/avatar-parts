@@ -53,12 +53,13 @@ def	prepareNode(node, partName):
 	"prepare svg node (layer)"
 
 	# Make layer visible if it was hidden
-	style = node.attrib['style']
-	style = style.replace('display:none', '')
-	if style == '':
-		del node.attrib['style']
-	else:
-		node.attrib['style'] = style
+	if 'style' in node.attrib:
+		style = node.attrib['style']
+		style = style.replace('display:none', '')
+		if style == '':
+			del node.attrib['style']
+		else:
+			node.attrib['style'] = style
 
 	# Remove sodipodi stuff
 	for name in sodipodiAttrs:
@@ -172,7 +173,7 @@ for g in root.findall('{http://www.w3.org/2000/svg}g'):
 	label = g.attrib['{' + ns['inkscape'] + '}label']
 	try:
 		part, partid = label.split('_')
-		if part not in parts_list or partid == 'box':
+		if part not in parts_list or partid == 'box' or int(partid) == 0:
 			continue
 	except:
 		continue
