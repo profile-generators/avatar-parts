@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="layer32" inkscape:label="hat_0001" class="hat">
+		<path style="display:inline;fill-opacity:1;stroke:none;stroke-width:0.283959px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 9.5709304,40.582263 c -0.969384,-0.2649 -0.44377,2.38417 0.5409056,2.60255 70.347356,15.60128 58.452757,-14.471085 101.644314,-16.188146 1.44346,-0.936369 0.86428,-1.529278 -0.16063,-2.364874 -4.37448,-2.146244 -9.97395,2.97557 -15.003604,2.34565 C 81.502986,25.087723 70.718722,6.8383277 55.7151,9.1839887 40.711475,11.529649 37.952986,31.896313 24.574545,38.236603 c -4.45948,2.11344 -6.356026,4.70868 -15.0036146,2.34566 z" id="path34408" class="p4"/>
+		<path style="fill:#000000;fill-opacity:0.337398;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 9.3423664,40.526039 c 5.5269396,1.607662 8.3915836,0.798544 8.3915836,0.798544 0,0 -2.699044,0.690859 -3.910001,0.881382 -2.211926,-0.43505 -3.507708,-1.023611 -4.4815826,-1.679926 z" id="path3494-0"/>
+		<path style="fill-opacity:1;stroke:none;stroke-width:0.269619px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 84.388923,33.924003 c 0,0 16.455317,-7.942268 22.487087,-9.766757 1.5354,-0.464429 4.75385,-0.70752 5.62177,0.927842 0.79825,1.504088 -0.44855,2.298438 -2.35509,2.124583 -11.445879,-0.0589 -25.753767,6.714332 -25.753767,6.714332 z" id="path5633" class="p3"/>
+		<path style="fill:#000000;fill-opacity:0.337398;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 85.533196,33.402412 c 8.426968,-4.220196 18.503104,-8.250439 19.788964,-8.736167 2.51323,-0.949364 6.12979,-1.485065 7.20551,0.519813 0.96284,1.794505 -1.15694,2.086971 -2.41544,2.087353 -2.30699,-0.173605 -10.494899,0.125969 -24.579034,6.129001 z" id="path3494-0-2"/>
+		<path style="fill:#000000;fill-opacity:0.07;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 55.204552,9.3105381 C 72.831982,6.6158038 86.241877,31.365659 101.41395,26.503812 82.423855,33.654664 77.807953,38.219562 76.596996,38.410085 63.897979,31.588665 58.598524,10.908002 55.204552,9.3105381 Z" id="path3494-0-9"/>
+		<path style="fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 9.3923814,40.487537 C 11.130359,41.977432 31.752397,47.144074 49.727347,47.344481 37.497923,47.540034 33.231875,48.282938 9.9220254,43.176535 9.0195084,42.978824 8.6932604,40.975238 9.3923814,40.487537 Z" id="path1842" class="p3"/>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>woman</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
