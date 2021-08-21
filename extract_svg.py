@@ -131,22 +131,19 @@ parts_list = [
     "hat"
 ]
 
-if len(sys.argv) < 4:
+if len(sys.argv) < 3:
 	print(f'usage: {sys.argv[0]} src_svg dst_folder author tags')
 	print('src_svg		- an avatar with each part on a layer')
 	print('dst_folder	- the root folder to export to')
 	print('author		- will be stored as creator in metadata')
-	print('tags		- separated by comma, will be stored as keywords in metadata')
 	sys.exit(1)
 
 src = sys.argv[1]
 dst = sys.argv[2]
 author = sys.argv[3]
-keywords = list(map(str.strip, sys.argv[4].split(',')))
 
 print(f'extracting parts from {src} to {dst}')
 print(f'author: {author}')
-print(f'keywords: {keywords}')
 
 if not os.path.exists(dst):
 	os.makedirs(dst)
@@ -189,7 +186,10 @@ for g in root.findall('{http://www.w3.org/2000/svg}g'):
 			# skip template 0000 parts
 			continue
 
+	# Ask for keywords
 	print(f'extracting {part}_{partid} as {part}_{number:04d}.svg')
+	response = input(f'enter keywords for {part}_{partid}: ')
+	keywords = list(map(str.strip, response.split(',')))
 
 	# prepare node
 	prepareNode(g, part)
