@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="layer30" inkscape:label="hair_002" class="hair">
+		<path id="path1755" style="fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" class="hair" d="m 239.47334,71.528604 c -36.79574,-0.238981 -74.82709,9.06342 -89.46484,29.999996 -2.32176,3.32085 -2.48572,3.578 -0.30911,7.41751 -2.28932,-3.46135 -11.21703,-1.31487 -16.05417,14.02781 -7.39369,23.45161 -6.83593,51.95494 -0.50769,75.71621 14.48686,54.39532 -18.64984,84.65559 86.89372,123.98956 8.88982,3.31306 19.68466,4.12041 28.45703,0.50781 103.17494,-42.48904 72.9533,-70.10282 88.92842,-122.46553 12.21154,-40.02658 5.68016,-90.44798 -25.91601,-112.302741 C 295.96388,77.672573 268.09225,71.714478 239.47334,71.528604 Z m -76.38809,54.343806 c 8.07577,8.03072 12.90566,8.86362 13.75333,9.29682 42.8535,21.90075 98.15486,-6.98703 139.23437,7.62305 -0.21812,18.16456 8.9298,20.0143 11.17969,42.17773 7.99815,78.78927 -44.20967,83.84444 -44.20967,83.84444 0,0 -12.60471,-12.90907 -20.83399,-15.75195 -17.93422,-6.19554 -38.75934,-6.5317 -56.91406,-1.01562 -9.0817,2.75935 -15.27379,8.98872 -23.375,16.25976 -44.98208,-27.46206 -38.35568,-48.71974 -38.11064,-84.86202 0.11686,-17.23411 18.99111,-28.22006 24.39016,-51.51999 0.28219,-1.21781 -0.96934,0.59876 -5.11419,-6.05222 z m 36.91866,139.45571 c 20.40103,5.27699 45.35372,2.55792 71.56054,1.73438 10.10173,10.95173 -5.71925,20.38609 -13.39648,24.70703 -6.86752,3.86522 -14.1888,-2.97179 -22.06836,-3.0957 -8.16208,-0.12835 -18.05071,6.71647 -25.17773,2.73633 -7.83942,-4.37799 -22.17397,-16.76891 -10.91797,-26.08204 z" transform="scale(0.26458333)"/>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>beard</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
