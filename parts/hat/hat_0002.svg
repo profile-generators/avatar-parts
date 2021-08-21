@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="layer35" inkscape:label="hat_001" class="hat">
+		<g id="g1539-7" transform="translate(0.04295678,-0.348637)">
+			<path style="fill:#13231f;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 61.241663,12.135402 c -29.729597,0.490475 -36.515089,19.862094 -34.957574,46.136999 -0.413812,-0.0034 -0.966922,-0.0048 -1.806339,0.01681 -0.728523,-0.750934 -0.697261,-2.209383 0.128683,-2.851617 0.557625,-0.0036 0.463321,0.01915 1.133881,0.01223 -0.09406,-11.601223 0.728894,-15.825857 2.115319,-21.272007 -0.270113,-0.135021 -0.280851,0.122251 -0.308978,-0.42444 3.829904,-14.242983 15.126011,-22.357965 33.69501,-22.361238 19.859689,-0.0035 30.130863,10.320634 33.402342,22.200994 -0.03244,0.329241 0.261699,0.554176 -0.06123,0.663204 0.07418,0.815416 3.502452,8.708549 2.057296,28.44261 0.709627,0.0109 0.862218,-0.0032 1.117427,-0.0102 0.883574,0.664569 0.709747,2.363631 0.152448,2.834462 -0.659229,0.02726 -0.983443,0.01036 -1.844375,0.0037 3.008417,-32.81335 -5.104614,-52.855215 -34.82391,-53.391506 z" id="path7671-4"/>
+			<path style="fill:#13121f;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 36.704817,38.721567 c -4.015117,-0.546875 -4.538533,7.063463 -4.974645,11.092116 -0.554338,5.120779 -1.991102,15.14041 3.159572,15.12561 4.733017,-0.0136 1.6695,-5.493444 2.823448,-13.915562 C 38.271715,46.947342 42.30622,39.4845 36.704817,38.721567 Z" id="path2995-67"/>
+			<path style="fill:#becac8;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 33.864565,40.217322 c -2.692729,-1.430753 -4.139966,5.858325 -5.630091,7.243488 -1.811531,0.05101 -3.181092,0.05445 -4.974644,0 -0.02396,2.566473 -0.003,2.555858 -0.13445,5.915795 3.440061,0.03304 3.236892,0.0763 5.243545,0.06722 1.405087,2.49829 -0.586339,6.889337 3.058734,7.898933 -0.77683,-3.784929 0.538772,-17.586059 2.436906,-21.125436 z" id="path4018-1"/>
+			<path style="fill:#13121f;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 86.230913,38.721567 c 4.015117,-0.546875 4.538533,7.063463 4.974645,11.092116 0.554338,5.120779 1.991102,15.14041 -3.159572,15.12561 -4.733017,-0.0136 -1.6695,-5.493444 -2.823448,-13.915562 C 84.664015,46.947342 80.62951,39.4845 86.230913,38.721567 Z" id="path2995-6-9"/>
+			<path style="fill:#becac8;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 89.071165,40.217322 c 2.692729,-1.430753 4.139966,5.858325 5.630091,7.243488 1.811531,0.05101 3.181092,0.05445 4.974644,0 0.02396,2.566473 0.003,2.555858 0.13445,5.915795 -3.440061,0.03304 -3.236892,0.0763 -5.243545,0.06722 -1.405087,2.49829 0.586339,6.889337 -3.058734,7.898933 0.77683,-3.784929 -0.538772,-17.586059 -2.436906,-21.125436 z" id="path4018-9-5"/>
+		</g>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>headphones</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
