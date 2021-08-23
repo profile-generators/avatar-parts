@@ -123,6 +123,32 @@ def makeSvg(node, author, keywords):
 	tree = ET.ElementTree(root)
 	return tree
 
+def processLayer(part, partid, number, g):
+	# Ask for keywords
+	print(f'extracting {part}_{partid} as {part}_{number:04d}.svg')
+	response = input(f'enter keywords for {part}_{partid}: ')
+	keywords = list(map(str.strip, response.split(',')))
+
+	# prepare node
+	prepareNode(g, part)
+
+	# wrap and export
+	svg = makeSvg(g, author, keywords)
+
+	filename = f'{dst}/{part}/{part}_{number:04d}.svg'
+	svg.write(filename, encoding='utf-8', xml_declaration=True)
+
+	# prettify
+	dom = xml.dom.minidom.parse(filename) 
+	pretty_xml = dom.toprettyxml()
+
+	lines = pretty_xml.splitlines()
+	filtered = list(filter(lambda x: x.strip() != '', lines))
+	output = '\n'.join(filtered)
+	
+	with open(filename, 'w') as f:
+		f.write(output)
+
 # list of accepted drawing parts
 parts_list = [
 	"backhair", "hair", "neck", "bust",
@@ -165,6 +191,7 @@ for part in parts_list:
 # parse svg input
 tree = ET.parse(src)
 root = tree.getroot()
+backhairs = []
 for g in root.findall('{http://www.w3.org/2000/svg}g'):
 	# select relevant layers
 	label = g.attrib['{' + ns['inkscape'] + '}label']
@@ -177,6 +204,9 @@ for g in root.findall('{http://www.w3.org/2000/svg}g'):
 
 	# select next number available for filename
 	if len(partid) != 4:
+		if part == 'backhair':
+			backhairs.append([part, partid, g])
+			continue
 		number = part_numbers[part]
 		part_numbers[part] += 1
 	else:
@@ -186,27 +216,12 @@ for g in root.findall('{http://www.w3.org/2000/svg}g'):
 			# skip template 0000 parts
 			continue
 
-	# Ask for keywords
-	print(f'extracting {part}_{partid} as {part}_{number:04d}.svg')
-	response = input(f'enter keywords for {part}_{partid}: ')
-	keywords = list(map(str.strip, response.split(',')))
+	processLayer(part, partid, number, g)
 
-	# prepare node
-	prepareNode(g, part)
+for part, partid, g in backhairs:
+	# ask which hair matched backhair
 
-	# wrap and export
-	svg = makeSvg(g, author, keywords)
+	response = input(f'enter matching hair id (4 digits) for {part}_{partid}: ')
+	number = int(response)
 
-	filename = f'{dst}/{part}/{part}_{number:04d}.svg'
-	svg.write(filename, encoding='utf-8', xml_declaration=True)
-
-	# prettify
-	dom = xml.dom.minidom.parse(filename) 
-	pretty_xml = dom.toprettyxml()
-
-	lines = pretty_xml.splitlines()
-	filtered = list(filter(lambda x: x.strip() != '', lines))
-	output = '\n'.join(filtered)
-	
-	with open(filename, 'w') as f:
-		f.write(output)
+	processLayer(part, partid, number, g)
