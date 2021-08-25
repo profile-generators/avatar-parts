@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="layer29" inkscape:label="backhair_001" class="backhair">
+		<path style="display:inline;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 29.428082,58.395709 c 0,0 33.617019,-1.0339 60.535129,-0.57439 -6.6397,10.4316 4.93619,13.31944 4.70366,31.52201 0,0 -5.98427,-5.85966 -2.57007,8.614384 -6.16699,-5.235804 -7.81024,-9.730984 -8.26829,-11.484564 0,0 -2.74053,2.2376 -1.89224,11.203124 -10.12237,-5.013194 -9.54209,-14.042164 -9.54209,-14.042164 0,0 -3.66093,3.15821 -2.83794,9.4481 -4.03541,-4.0494 -6.76851,-9.60676 -6.76851,-9.60676 0,0 -3.69408,3.91757 -3.10386,9.41698 -2.97048,-1.77433 -4.89125,-11.64885 -4.89125,-11.64885 0,0 -4.935764,6.65993 -3.26652,17.058864 -5.186806,-4.789954 -6.123554,-13.300314 -6.123554,-13.300314 0.0149,-0.0298 2.499813,6.8546 -9.101567,13.346894 7.063986,-7.656124 2.729016,-12.096024 2.729016,-12.096024 0,0 1.286057,2.68518 -10.048133,6.64517 5.215493,-8.15801 5.034144,-10.74688 5.034144,-10.74688 0,0 -1.608542,10.90168 -7.3153,10.1895 13.141374,-19.61535 2.727375,-33.94508 2.727375,-33.94508 z" id="path73125" inkscape:transform-center-x="57.767243" inkscape:transform-center-y="-44.257401" class="hair"/>
+		<path style="display:inline;fill:#000000;fill-opacity:0.146341;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 29.513909,58.484783 c 0,0 33.617019,-1.0339 60.535134,-0.57439 -6.63971,10.4316 4.93618,13.31944 4.70366,31.52201 0,0 -5.98427,-5.85966 -2.57007,8.614384 -6.16699,-5.235804 -7.81024,-9.730984 -8.2683,-11.484564 0,0 -2.74053,2.2376 -1.89224,11.203124 -10.122365,-5.013194 -9.542085,-14.042164 -9.542085,-14.042164 0,0 -3.66093,3.15821 -2.83794,9.4481 -4.03541,-4.0494 -6.76851,-9.60676 -6.76851,-9.60676 0,0 -3.69408,3.91757 -3.10386,9.41698 -2.97048,-1.77433 -4.89125,-11.64885 -4.89125,-11.64885 0,0 -4.935764,6.65993 -3.26652,17.058869 -5.186806,-4.789959 -6.123554,-13.300319 -6.123554,-13.300319 0.0149,-0.0298 2.499813,6.8546 -9.101567,13.346899 7.063986,-7.656129 2.729016,-12.096029 2.729016,-12.096029 0,0 1.286057,2.68518 -10.048133,6.64517 5.215493,-8.15801 5.034144,-10.74688 5.034144,-10.74688 0,0 -1.608542,10.90168 -7.3153,10.1895 13.141374,-19.61535 2.727375,-33.94508 2.727375,-33.94508 z" id="path73125-4" inkscape:transform-center-x="57.767243" inkscape:transform-center-y="-44.257401" class="hair"/>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>strand_of_hair</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
