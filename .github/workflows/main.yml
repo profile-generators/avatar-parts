@@ -36,4 +36,4 @@ jobs:
           # directory to upload
           source_dir: parts
           # destination directory for upload
-          destination_dir: /parts
+          destination_dir: parts
