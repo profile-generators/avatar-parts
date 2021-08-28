@@ -1,0 +1,39 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CD
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: Upload S3
+        uses: shallwefootball/upload-s3-action@v1.1.3
+        with:
+          # aws key id
+          aws_key_id: ${{ secrets.AWS_KEY_ID }}
+          # aws secret access key
+          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          # aws bucket name
+          aws_bucket: ${{ secrets.AWS_BUCKET }}
+          # directory to upload
+          source_dir: parts
+          # destination directory for upload
+          destination_dir: /
