@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="g4037" inkscape:label="eyes_0001" style="display:inline;opacity:1" class="eyes">
+		<path id="path4025" style="fill:#ffffff" d="m 66.061501,51.783875 c 1.53382,2.245617 2.933096,3.267893 6.961158,3.223009 4.26599,-0.04753 6.533343,-2.00627 7.864329,-4.553995 1.091658,-2.089614 -2.424319,-3.312518 -7.579117,-3.31808 -3.044044,-0.0033 -7.055193,2.485772 -7.24637,4.649066 z"/>
+		<circle id="circle4027" cx="-73.163826" cy="51.403908" r="4.1355634" class="eye" transform="scale(-1,1)"/>
+		<ellipse style="fill:#000000" id="ellipse4029" cx="-73.163826" cy="51.403908" rx="2.0522294" ry="2.1312411" transform="scale(-1,1)"/>
+		<path id="path4031" d="m 66.061501,51.783875 c 0.44051,-1.65227 3.170772,-3.719783 7.198834,-3.764667 4.26599,-0.04753 4.86961,-0.05733 7.816794,1.197766 -0.937192,-1.125745 -2.17345,-1.96364 -7.769258,-2.082165 -3.043364,-0.06446 -7.055193,1.725209 -7.24637,4.649066 z" class="flesh2"/>
+		<ellipse style="fill:#ffffff;fill-opacity:0.5" id="ellipse4033" cx="49.12764" cy="50.089161" rx="0.78433096" ry="0.8318662"/>
+		<ellipse style="fill:#ffffff;fill-opacity:0.5" id="ellipse4035" cx="71.350349" cy="50.11293" rx="0.92693657" ry="0.90316904"/>
+		<path style="stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 66.082116,51.763204 c 4.046278,4.684553 12.104458,2.132477 14.419751,-0.504186 -1.914385,3.012084 -4.194624,4.824599 -7.092231,4.772971 -2.787683,-0.04967 -8.074422,-1.582565 -7.32752,-4.268785 z" id="path6626" class="flesh"/>
+		<path id="path4025-6" style="display:inline;fill:#ffffff" d="m 58.103071,51.609484 c -1.53382,2.245617 -2.933096,3.267893 -6.961158,3.223009 -4.26599,-0.04753 -6.533343,-2.00627 -7.864329,-4.553995 -1.091658,-2.089614 2.424319,-3.312518 7.579117,-3.31808 3.044044,-0.0033 7.055193,2.485772 7.24637,4.649066 z"/>
+		<circle id="circle4027-0" cx="51.000744" cy="51.229519" r="4.1355634" class="eye" style="display:inline"/>
+		<ellipse style="display:inline;fill:#000000" id="ellipse4029-9" cx="51.000744" cy="51.229519" rx="2.0522294" ry="2.1312411"/>
+		<path id="path4031-0" d="m 58.103071,51.609484 c -0.44051,-1.65227 -3.170772,-3.719783 -7.198834,-3.764667 -4.26599,-0.04753 -4.86961,-0.05733 -7.816794,1.197766 0.937192,-1.125745 2.17345,-1.96364 7.769258,-2.082165 3.043364,-0.06446 7.055193,1.725209 7.24637,4.649066 z" class="flesh2" style="display:inline"/>
+		<ellipse style="display:inline;fill:#ffffff;fill-opacity:0.5" id="ellipse4035-4" cx="-49.252937" cy="50.113171" rx="0.92693657" ry="0.90316904" transform="scale(-1,1)"/>
+		<path style="display:inline;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 58.082456,51.588813 c -4.046278,4.684553 -12.104458,2.132477 -14.419751,-0.504186 1.914385,3.012084 4.194624,4.824599 7.092231,4.772971 2.787683,-0.04967 8.074422,-1.582565 7.32752,-4.268785 z" id="path6626-6" class="flesh"/>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>slim</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>

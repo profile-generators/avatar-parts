@@ -46,7 +46,7 @@ Although you should use the palette as much as possible, you can use hardcoded c
 ## Pushing your updates
 When your layers are ready, run the python 3 script [extract_svg.py](extract_svg.py).
 
-`extract_svg.py src_svg dst_folder author tags`
+`extract_svg.py src_svg dst_folder author`
 
 *src_svg* is your svg file containing parts as layers (work.svg)
 
@@ -54,9 +54,11 @@ When your layers are ready, run the python 3 script [extract_svg.py](extract_svg
 
 *author* will be added as metadata to your parts
 
-*tags* is a comma-separated list of keywords that will be added as metadata to your parts
-
 The script will extract your layers and assign a **4 digit** number to each of your parts, add author and tags metadata inline, and place your part in the correct folder. If you used **4 digit** in a layer name, the corresponding part will be updated instead of being assigned a new number.
+
+When extract_svg.py runs:
+- for each new part one or more keywords are requested. You can pass, or enter keywords separated by commas. Space is to be replaced by an underscore. Keywords will be added as metadata to your parts.
+- information will be asked to associate hair and eventually back hair.
 
 Before making a pull request, run the python 3 script [gen_indexes.py](gen_indexes.py).
 
