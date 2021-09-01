@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="g96" inkscape:label="bust_001" style="display:inline;opacity:1" class="bust">
+		<path id="path92" d="m 106.47888,101.52226 c -0.73556,3.37074 -18.191098,4.08803 -44.383749,4.08803 -26.192649,0 -43.105266,-0.13257 -44.383741,-4.37324 -1.541094,-5.111772 4.426528,-10.842305 18.575317,-15.305618 13.206308,-4.166003 16.234469,-4.65917 26.093635,-4.65917 9.659896,0 14.73859,1.162868 25.15438,4.541697 15.455608,5.013719 20.203658,9.936599 18.944158,15.708301 z" class="p1"/>
+		<path id="path94" style="display:inline;fill:#000000;fill-opacity:0.298368" d="m 62.380171,81.272486 c -7.091547,0 -10.66461,0.262898 -17.017565,1.956469 0.0035,0.396018 0.01296,0.840754 0.03307,1.37046 0,4.654227 7.484745,8.426876 16.717844,8.426876 9.233095,0 16.824811,-3.567493 16.824811,-8.221721 -0.01087,-0.664673 -0.03511,-1.163761 -0.06356,-1.580266 -5.460867,-1.410851 -9.916887,-1.951818 -16.4946,-1.951818 z"/>
+		<text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.264583" x="40.469418" y="100.83741" id="text18954">
+			<tspan id="tspan18952" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Caladea;-inkscape-font-specification:Caladea;stroke-width:0.264583" x="40.469418" y="100.83741"/>
+		</text>
+		<text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0409px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';fill-opacity:1;stroke:none;stroke-width:0.489032" x="42.722076" y="95.845657" id="text24656" transform="scale(0.93266825,1.0721926)" class="p2">
+			<tspan id="tspan24654" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';fill-opacity:1;stroke:none;stroke-width:0.489032" x="42.722076" y="95.845657">Avatr.cc</tspan>
+		</text>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>txt_avatr_cc</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="g936" inkscape:label="eyes_001" style=";opacity:1" class="eyes">
+		<path id="path916" style="fill:#ffffff" d="m 58.051859,51.617816 c 0.177448,2.007941 -2.742955,4.361203 -6.771017,4.316319 -4.26599,-0.04753 -6.533343,-1.768594 -7.864329,-4.316319 -1.091658,-2.089614 2.234178,-4.643504 7.388976,-4.649066 3.044044,-0.0033 7.055193,2.485772 7.24637,4.649066 z"/>
+		<circle id="circle918" cx="50.949532" cy="51.23785" r="4.1355634" class="eye"/>
+		<ellipse style="fill:#000000" id="ellipse920" cx="50.949532" cy="51.23785" rx="2.0522294" ry="2.1312411"/>
+		<path id="path922" d="m 58.051859,51.617816 c -0.44051,-1.65227 -3.069935,-4.660932 -7.097997,-4.705816 -4.26599,-0.04753 -7.204602,1.786992 -7.537349,4.705816 -1.091658,-2.089614 2.335015,-5.584653 7.489813,-5.590215 3.044044,-0.0033 6.954356,2.666358 7.145533,5.590215 z" class="flesh2"/>
+		<path id="path930" d="m 66.061501,51.783875 c 3.283647,0.159425 2.969097,0.280101 6.997159,0.235217 4.26599,-0.04753 3.372781,-0.02808 7.638187,-0.235217 -5.561223,-1.091785 -4.432332,-0.928831 -7.638186,-0.934393 -3.044041,-0.0053 -2.388827,0.04458 -6.99716,0.934393 z" class="flesh2"/>
+		<ellipse style="fill:#ffffff;fill-opacity:0.5" id="ellipse932" cx="49.12764" cy="50.089161" rx="0.78433096" ry="0.8318662"/>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>wink</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
