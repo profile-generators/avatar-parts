@@ -21,7 +21,7 @@ A color palette is embeded inside *template.svg* as css classes. This is used to
 
 class name | default | usage
 ---------- | ------- | -----
-flesh      | ![#ffe7bd](resources/flesh.png "#ffe7bd") | main flesh (skin) elements
+flesh      | ![#ffe7bd](resources/flesh.png "#ffe7bd") | main flesh elements
 flesh2     | ![#f7cf88](resources/flesh2.png "#f7cf88") | flesh shadows
 flesh3     | ![#ffdebd](resources/flesh3.png "#ffdebd") | lighter flesh
 hair       | ![#803300](resources/hair.png "#803300") | main hair
