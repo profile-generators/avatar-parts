@@ -42,6 +42,19 @@ If the palette color does not show on the object, you may have to set the fill c
 
 Although you should use the palette as much as possible, you can use hardcoded colors as well. Using black or white objects with custom opacities can be usefull to add shadows or highlights over palette colors.
 
+## Testing your changes
+
+You can run the frontend locally to test your new parts with the others.
+
+To do this you need to clone the [avatar-web](https://github.com/profile-generators/avatar-web) git repository, add the *parts* directory from this repository in the *webroot* directory and finally run a static files webserver from the *webroot* directory.
+
+The easiest way to make a static file webserver is to use a Node.js package called *http-server*: 
+- Install Node.js for you system from [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+- Install the http-server package globally with `npm install --global http-server`
+- browse to the *webroot* directory
+- run `http-server`
+- your can now access your server at [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
+- in your browser, force refresh with <kbd>ctrl</kbd>+<kbd>f5</kbd> when you add a new part
 
 ## Pushing your updates
 When your layers are ready, run the python 3 script [extract_svg.py](extract_svg.py).
