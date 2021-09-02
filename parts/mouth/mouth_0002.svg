@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="g11049" inkscape:label="mouth_002" style=";opacity:1" class="mouth">
+		<path style="display:inline;fill:#470808;fill-opacity:1;stroke:#000000;stroke-width:0.0335114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 56.148713,72.814151 c 1.663277,-0.496398 2.518299,-2.210421 4.010183,-2.107505 0.937887,0.0647 2.038962,0.360354 2.345358,0.352316 0.329715,-0.0086 1.603133,-0.347915 2.423879,-0.328402 1.496003,0.03558 2.3787,1.505237 3.81714,2.118161 -2.469149,0.172418 -3.245504,1.377285 -6.045767,1.409745 -2.89978,0.03362 -3.913538,-1.276312 -6.550793,-1.444315 z" id="path11039"/>
+		<path id="path11043" style="fill:#cb1406;fill-opacity:1;stroke:none;stroke-width:0.0428558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 54.799617,72.670952 c 2.443434,1.095917 4.166864,2.626714 7.615581,2.560113 2.554582,-0.04933 4.210472,-1.350143 7.365834,-2.51257 -2.201001,-1.076998 -2.848254,-2.13675 -4.573366,-2.582219 -0.96888,-0.250187 -2.43657,0.439764 -2.828709,0.451655 -0.29608,0.009 -1.000661,-0.716877 -2.521959,-0.516766 -1.804855,0.23741 -3.398232,1.800072 -5.057381,2.599787 z m 7.607709,-0.094 c 0.556045,-0.117896 0.07799,-0.01508 0.636209,-0.130234 0.601306,0.02057 1.430942,0.05199 2.606034,0.144158 -3.152689,0.141053 -2.616606,0.349372 -3.232854,0.33128 -0.655006,-0.01923 -0.254577,-0.196985 -3.913831,-0.303381 0.857233,-0.03195 2.602206,-0.151446 3.284914,-0.16099 0.48604,0.09117 0.101974,0.02327 0.619528,0.119167 z"/>
+		<ellipse style="display:inline;fill:#ffffff;fill-opacity:0.5;stroke-width:0.280622" id="ellipse11045" transform="matrix(0.97873599,-0.20512403,0.22281263,0.97486129,0,0)" ry="0.15339357" rx="0.42978954" cy="84.779839" cx="45.169224"/>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>lipstick</rdf:li>
+						<rdf:li>closed</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>

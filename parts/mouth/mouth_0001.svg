@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="124.19042mm" height="124.19042mm" viewBox="0 0 124.19042 124.19042" version="1.1" id="svg151">
+	<g inkscape:groupmode="layer" id="g11037" inkscape:label="mouth_001" style="display:inline;opacity:1" class="mouth">
+		<g id="g11035" transform="matrix(0.73465119,0,0,1,5.1407557,-4.573925)">
+			<path style="display:inline;fill:#470808;fill-opacity:1;stroke:#000000;stroke-width:0.0390978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 69.431532,77.388076 c 2.264036,-0.496398 3.427883,-2.210421 5.458622,-2.107505 1.276642,0.0647 2.775414,0.360354 3.192478,0.352316 0.448804,-0.0086 2.182168,-0.347915 3.29936,-0.328402 2.036344,0.03558 3.237863,1.505237 5.195853,2.118161 -3.360981,0.172418 -4.417748,1.377285 -8.229438,1.409745 -3.947152,0.03362 -5.32707,-1.276312 -8.916875,-1.444315 z" id="path11027"/>
+			<path style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 83.09155,75.48591 -0.19014,1.164614 c 0,0 -0.623038,0.235843 -0.950706,0.261443 -0.492816,0.0385 -1.473592,-0.166373 -1.473592,-0.166373 0,0 -0.896887,0.213934 -1.354753,0.237675 -0.452087,0.02344 -1.354752,-0.09507 -1.354752,-0.09507 0,0 -0.838943,0.112177 -1.259684,0.09507 -0.456802,-0.01857 -1.354754,-0.213908 -1.354754,-0.213908 0,0 -0.789533,0.152413 -1.188381,0.142606 -0.3776,-0.0093 -1.22403,-0.202025 -1.22403,-0.202025 l -0.285213,-1.140843 z" id="path11029"/>
+			<path id="path11031" style="fill:#cb1406;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 74.524966,73.804782 c -0.323561,-0.0018 -0.635008,0.02376 -0.916741,0.08888 -2.083673,0.48164 -4.683379,2.328712 -6.013069,3.351215 2.685436,2.440416 5.7634,3.298963 10.457759,3.232362 3.477273,-0.04933 6.60056,-0.341768 9.934795,-3.184819 -2.21818,-1.749247 -3.831262,-2.977062 -6.179468,-3.422531 -1.318829,-0.250187 -3.316635,0.439764 -3.85041,0.451655 -0.403022,0.009 -2.030773,-0.508746 -3.432866,-0.516766 z m 0.732256,2.145607 c 0.04744,-1.4e-4 0.09548,7.27e-4 0.144176,0.0026 0.979634,0.03733 2.129428,0.207727 2.449463,0.203089 0.344392,-0.005 1.674865,-0.200909 2.532144,-0.189653 1.562592,0.02052 2.484369,0.868545 3.986837,1.222147 -2.579055,0.09947 -3.389953,0.794663 -6.314861,0.813388 -3.028854,0.01939 -4.087831,-0.7361 -6.842474,-0.833025 1.68302,-0.277429 2.573967,-1.214239 4.044715,-1.218528 z"/>
+			<ellipse style="display:inline;fill:#ffffff;fill-opacity:0.5;stroke-width:0.486664" id="ellipse11033" cx="82.864754" cy="67.524048" rx="0.92693657" ry="0.21390846" transform="rotate(7.6714489)"/>
+		</g>
+	</g>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>yurg</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:source>https://github.com/profile-generators/avatar-parts</dc:source>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>lipstick</rdf:li>
+						<rdf:li>open</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+</svg>
